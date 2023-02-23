@@ -1,0 +1,2 @@
+class Oppo < ApplicationRecord
+end
